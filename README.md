@@ -12,6 +12,8 @@ Daily deep-dive research on Indian startup sectors — market sizing, competitor
 | 👥 HR & Recruitment Tech | [Report](hr-recruitment/report.md) | [View PPTX](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/mohanagsk/sector-reports/main/hr-recruitment/presentation.pptx) |
 | 🎓 Education & EdTech (B2B) | [Report](education-edtech/report.md) | [View PPTX](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/mohanagsk/sector-reports/main/education-edtech/presentation.pptx) |
 | 🌾 Agriculture & AgriTech | [Report](agriculture/report.md) | [View PPTX](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/mohanagsk/sector-reports/main/agriculture/presentation.pptx) |
+| 💰 FinTech & Payments | [Report](fintech/report.md) | [View PPTX](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/mohanagsk/sector-reports/main/fintech/presentation.pptx) |
+| 🏭 Manufacturing & IIoT | [Report](manufacturing-iot/report.md) | [View PPTX](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/mohanagsk/sector-reports/main/manufacturing-iot/presentation.pptx) |
 
 ## Report Structure
 

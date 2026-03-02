@@ -1,0 +1,45 @@
+Toll Plaza/Expressway,Type,Highway/Route,Location,3-Wheeler (₹),4-Wheeler Car (₹),4-Wheeler LCV (₹),Commercial Bus/Truck 2-Axle (₹),Commercial Heavy 3-Axle (₹),Commercial Multi-Axle 4+ (₹),Monthly Pass Car (₹),Payment Method,3W Allowed?,Source URL,Last Updated
+Kherki Daula,NHAI National Highway,NH-48,Delhi-Gurgaon Km 42,Exempt,80,120,250,375,465,930,FASTag + Cash,No (Expressway),https://tollguru.com/kherki-daula-toll-plaza,Apr 2025
+Kashi Toll Plaza (Delhi-Meerut Full 82km),NHAI Expressway,NE-3,Meerut End,PROHIBITED,170,280,590,685,950,5695,FASTag ONLY (No Cash),No,https://tollguru.com/delhi-meerut-expressway,Apr 2025
+Delhi-Meerut (Indirapuram to Meerut 56km),NHAI Expressway,NE-3,Indirapuram Entry,PROHIBITED,115,190,440,510,680,—,FASTag ONLY,No,https://tollguru.com/delhi-meerut-expressway,Apr 2025
+Delhi-Meerut (Dundahera to Meerut 42km),NHAI Expressway,NE-3,Vijay Nagar Entry,PROHIBITED,85,140,325,375,500,—,FASTag ONLY,No,https://tollguru.com/delhi-meerut-expressway,Apr 2025
+Delhi-Meerut (Dasna to Meerut 32km),NHAI Expressway,NE-3,Dasna Entry,PROHIBITED,75,125,290,335,450,—,FASTag ONLY,No,https://tollguru.com/delhi-meerut-expressway,Apr 2025
+Yamuna Expressway (Full 165.5km),State Expressway,Taj Expressway,Greater Noida to Agra,207,438,687,1399,2135,3111,—,FASTag + Manual,Yes,https://tollguru.com/yamuna-expressway,Apr 2025
+Yamuna Expressway (Per km rate),State Expressway,Taj Expressway,Any Section,1.25/km,2.65/km,4.15/km,8.45/km,12.90/km,18.80/km,—,FASTag + Manual,Yes,https://tollguru.com/yamuna-expressway,Apr 2025
+Eastern Peripheral Expressway (Full 135km),NHAI Expressway,NE-2 (KGP),Kundli to Palwal,PROHIBITED,190,305,630,880,—,350,FASTag + Entry Ticket,No,https://tollguru.com/eastern-peripheral-expressway,Apr 2025
+Eastern Peripheral (Per km rate),NHAI Expressway,NE-2 (KGP),Any Section,PROHIBITED,2.50/km,4.00/km,7.50/km,10.50/km,—,—,FASTag,No,https://tollguru.com/eastern-peripheral-expressway,Apr 2025
+Eastern Peripheral (Ghaziabad-Faridabad 56km),NHAI Expressway,NE-2,Mid Section,PROHIBITED,140,225,420,590,—,—,FASTag,No,https://tollguru.com/eastern-peripheral-expressway,Apr 2025
+Eastern Peripheral (Dasna-Duhai 6km),NHAI Expressway,NE-2,Short Section,PROHIBITED,15,25,45,65,—,—,FASTag,No,https://tollguru.com/eastern-peripheral-expressway,Apr 2025
+KMP Expressway Western Peripheral (Full 135km),NHAI Expressway,KMP,Kundli-Manesar-Palwal Ring,PROHIBITED,182,295,672,880,—,—,FASTag,No,https://tollguru.com/haryana-toll-roads,Apr 2025
+KMP Expressway (Per km rate),NHAI Expressway,KMP,Any Section,PROHIBITED,1.35/km,2.18/km,4.98/km,6.50/km,8.50/km,—,FASTag,No,https://tollguru.com/haryana-toll-roads,Apr 2025
+Dwarka Expressway,NHAI Expressway,NH-248BB,Delhi-Gurgaon Alternate,—,40-60,65-100,150-200,200-280,—,—,FASTag,TBD,https://tollguru.com/haryana-toll-roads,Mar 2024
+DND Flyway,State Toll-Free,—,Delhi-Noida,FREE,FREE,FREE,FREE,FREE,FREE,—,No Payment,Yes,https://tollguru.com/delhi-toll-roads,Oct 2016
+Greater Noida Expressway Sections,State/Authority,Noida-GN,Noida to Greater Noida,25-40,31-51,50-80,100-160,150-220,—,—,FASTag + Cash,Yes,https://tollguru.com/delhi-toll-roads,2025
+
+NOTES AND EXEMPTIONS,,,,,,,,,,,,,
+Category,Status,Details,,,,,,,,,,Source,
+2-Wheelers on NH,EXEMPT,No toll on most National Highways,,,,,,,,,,NHAI Policy,
+3-Wheelers on NH,EXEMPT,PIB confirms 4+ wheelers only pay toll,,,,,,,,,,https://pib.gov.in,
+3-Wheelers on Expressways,PROHIBITED,Not allowed on high-speed expressways,,,,,,,,,,TollGuru/NHAI,
+Local Residents (<20km),DISCOUNTED,Apply at toll plaza office with address proof,,,,,,,,,,NHAI Policy,
+Emergency/Military Vehicles,EXEMPT,Full exemption on all toll roads,,,,,,,,,,NHAI Policy,
+Round Trip Discount,1.6X,Yamuna Exp charges 1.6x (not 2x) for return within 24hrs,,,,,,,,,,https://tollguru.com/yamuna-expressway,
+
+DATA SOURCES,,,,,,,,,,,,,
+Source Name,URL,Data Date,Reliability,,,,,,,,,Notes,
+TollGuru Delhi Roads,https://tollguru.com/delhi-toll-roads,Jul 2025,HIGH - Crowd-updated 2025 data,,,,,,,,,Primary source for rates,
+TollGuru Kherki Daula,https://tollguru.com/kherki-daula-toll-plaza,Jul 2025,HIGH,,,,,,,,,Detailed plaza info,
+TollGuru Yamuna Expressway,https://tollguru.com/yamuna-expressway,Jul 2025,HIGH,,,,,,,,,Distance-based rates,
+TollGuru Delhi-Meerut,https://tollguru.com/delhi-meerut-expressway,Jul 2025,HIGH,,,,,,,,,Section-wise breakdown,
+TollGuru Eastern Peripheral,https://tollguru.com/eastern-peripheral-expressway,Jul 2025,HIGH,,,,,,,,,KGP Expressway details,
+TollGuru Haryana Roads,https://tollguru.com/haryana-toll-roads,Jul 2025,HIGH,,,,,,,,,KMP and state tolls,
+JagranJosh India Toll Count,https://www.jagranjosh.com/general-knowledge/how-many-toll-plazas-are-there-in-india-1820002216-1,Sep 2025,MEDIUM,,,,,,,,,Overall count ~60 in NCR,
+IHMCL NH Fee Plazas PDF,https://ihmcl.co.in/wp-content/uploads/2025/08/NH-Fee-Plazas-1.pdf,Aug 2025,HIGH - Official,,,,,,,,,Government source,
+NHAI Helpline,1033,Live,OFFICIAL,,,,,,,,,Call for verification,
+
+LEGEND,,,,,,,,,,,,,
+PROHIBITED,Vehicle type not allowed on this road/expressway,,,,,,,,,,,,
+EXEMPT,No toll charged for this vehicle type,,,,,,,,,,,,
+FREE,Road is toll-free for all vehicles,,,,,,,,,,,,
+—,Data not available or not applicable,,,,,,,,,,,,
+TBD,To be determined (new road),,,,,,,,,,,,
